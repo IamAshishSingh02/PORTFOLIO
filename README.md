@@ -1,6 +1,7 @@
 ## PORTFOLIO
 
-A code repo for my Portfolio.
+A personal portfolio website built using TypeScript, showcasing my projects, skills, and resume.
+
 
 ```javascript
 
